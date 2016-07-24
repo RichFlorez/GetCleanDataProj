@@ -1,9 +1,11 @@
-# GetCleanDataProj
-  Coursera Getting &amp; Cleaning Data Course Project
+# Coursera Getting &amp; Cleaning Data Course Project
+
 
 # Summary
 
+
 # Files
+
 Readme.md - Overview of the contents and objective of this repository
 
 Codebook.md - List and explanation of variables
