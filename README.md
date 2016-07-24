@@ -6,10 +6,10 @@
 
 # Repo Files
 
-readme.md       - Overview of the contents and objective of this repository
+readme.md       - Summary and overview of the contents of this repository
 
-codebook.md     - List and explanation of variables
+codebook.md     - The variables and summaries calculated, along with units, and any other relevant information
 
-run_analysis.R  - R Script/code for the data analysis
+run_analysis.R  - RScript/code for the data analysis
 
-resultsdata.txt - clean/tidy data output/analysis
+resultsdata.txt - Clean/tidy data output of the analysis
