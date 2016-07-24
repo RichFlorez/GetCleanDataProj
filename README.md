@@ -20,9 +20,9 @@ The following steps are taken to achieve these objectives:
 
 # Repo Files
 
-readme.md       - Summary and overview of the contents of this repository
+README.md       - Summary and overview of the contents of this repository
 
-codebook.md     - The variables and summaries calculated, along with units, and any other relevant information
+CODEBOOK.md     - The variables and summaries calculated, along with units, and any other relevant information
 
 run_analysis.R  - RScript/code for the data analysis
 
