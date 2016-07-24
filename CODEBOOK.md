@@ -1,6 +1,7 @@
-#
+# Data performed on
 30 Test Subjects
 
+# Observing the following
 6 Activities
 - LAYING
 - SITTING
