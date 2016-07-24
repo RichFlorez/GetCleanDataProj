@@ -1,7 +1,7 @@
 # Data performed on
 30 Test Subjects
 
-# Observing the following
+# Data observing
 6 Activities
 - LAYING
 - SITTING
@@ -10,13 +10,13 @@
 - WALKING_DOWNSTAIRS
 - WALKING_UPSTAIRS
 
-Measurements
-tBodyAcc-mean()-X
-tBodyAcc-std()-Z
-tGravityAcc-mean()-X
-tGravityAcc-std()-Z
-tBodyAccJerk-mean()-X
-tBodyAccJerk-std()-Z
+# Data measurements about the XYZ axes
+- tBodyAcc-mean
+- tBodyAcc-std
+- tGravityAcc-mean
+- tGravityAcc-std
+- tBodyAccJerk-mean
+- tBodyAccJerk-std
 tBodyGyro-mean()-X
 tBodyGyro-std()-Z
 tBodyGyroJerk-mean()-X
