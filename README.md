@@ -12,11 +12,11 @@ The purpose of the script within this repo is to collect, work with, and clean a
 
 The following steps are taken to achieve these objectives:
 
-1. Mergesthetrainingandthetestsetstocreateonedataset.
-2. Extractsonlythemeasurementsonthemeanandstandarddeviationforeachmeasurement.
-3. Usesdescriptiveactivitynamestonametheactivitiesinthedataset
-4. Appropriatelylabelsthedatasetwithdescriptivevariablenames.
-5. Fromthedatasetinstep4,createsasecond,independenttidydatasetwiththeaverageofeachvariableforeachactivityandeachsubject.
+1. Merge the training and the test sets to create one dataset.
+2. Extract only the measurements on the mean and standard deviation for each measurement.
+3. Use descriptive activity names to name the activities in the data set
+4. Appropriately label the dataset with descriptive variable names.
+5. From the dataset in step 4, create a second, independent tidy dataset with the average of each variable for each activity and each subject.
 
 # Repo Files
 
