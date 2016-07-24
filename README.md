@@ -1,4 +1,4 @@
-# Coursera Getting &amp; Cleaning Data Course Project
+# Coursera 'Getting &amp; Cleaning Data' Course Project
 
 
 # Repo Summary
