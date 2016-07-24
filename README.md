@@ -1,15 +1,15 @@
 # Coursera Getting &amp; Cleaning Data Course Project
 
 
-# Summary
+# Repo Summary
 
 
-# Files
+# Repo Files
 
-Readme.md - Overview of the contents and objective of this repository
+readme.md       - Overview of the contents and objective of this repository
 
-Codebook.md - List and explanation of variables
+codebook.md     - List and explanation of variables
 
-run_analysis.R - R Script/code for the data analysis
+run_analysis.R  - R Script/code for the data analysis
 
 resultsdata.txt - clean/tidy data output/analysis
