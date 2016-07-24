@@ -1,7 +1,7 @@
-# Data performed on
+# Data performed on:
 30 Test Subjects
 
-# Data observing
+# Data observing:
 6 Activities
 - LAYING
 - SITTING
@@ -10,7 +10,7 @@
 - WALKING_DOWNSTAIRS
 - WALKING_UPSTAIRS
 
-# Data measurements about the XYZ axes
+# Data measurements about the XYZ axes:
 - tBodyAcc-mean
 - tBodyAcc-std
 - tGravityAcc-mean
@@ -28,7 +28,7 @@
 - fBodyGyro-mean
 - fBodyGyro-std
 
-# Data mean and std dev measurements 
+# Data mean and std dev measurements: 
 - tBodyAccMag-mean
 - tGravityAccMag-std
 - tBodyAccJerkMag-mean
