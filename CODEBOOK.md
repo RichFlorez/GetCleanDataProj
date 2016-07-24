@@ -17,23 +17,24 @@
 - tGravityAcc-std
 - tBodyAccJerk-mean
 - tBodyAccJerk-std
-tBodyGyro-mean()-X
-tBodyGyro-std()-Z
-tBodyGyroJerk-mean()-X
-tBodyGyroJerk-std()-Z
-fBodyAcc-mean()-X
-fBodyAcc-std()-Z
-fBodyAccJerk-mean()-X
-fBodyAccJerk-std()-Z
-fBodyGyro-mean()-X
-fBodyGyro-std()-Z
+- tBodyGyro-mean
+- tBodyGyro-std
+- tBodyGyroJerk-mean
+- tBodyGyroJerk-std
+- fBodyAcc-mean
+- fBodyAcc-std
+- fBodyAccJerk-mean
+- fBodyAccJerk-std
+- fBodyGyro-mean
+- fBodyGyro-std
 
-tBodyAccMag-mean()
-tGravityAccMag-std()
-tBodyAccJerkMag-mean()
-tBodyGyroMag-std()
-tBodyGyroJerkMag-mean()
-fBodyAccMag-mean()
-fBodyBodyAccJerkMag-std()
-fBodyBodyGyroMag-mean()
-fBodyBodyGyroJerkMag-std()
+# Data mean and std dev measurements 
+- tBodyAccMag-mean
+- tGravityAccMag-std
+- tBodyAccJerkMag-mean
+- tBodyGyroMag-std
+- tBodyGyroJerkMag-mean
+- fBodyAccMag-mean
+- fBodyBodyAccJerkMag-std
+- fBodyBodyGyroMag-mean
+- fBodyBodyGyroJerkMag-std
