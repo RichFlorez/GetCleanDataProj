@@ -26,4 +26,4 @@ CODEBOOK.md     - The variables and summaries calculated, along with units, and 
 
 run_analysis.R  - RScript/code for the data analysis
 
-resultsdata.txt - Data output/results of the analysis
+results_data.txt - Data output/results of the analysis
